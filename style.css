@@ -1,0 +1,50 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+    background-image: radial-gradient(rgba(255, 255, 255, 0.2) 1px, transparent 1px);
+    background-size: 30px 30px;
+}
+
+h1 {
+    border: 2px solid white;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 10px;
+}
+
+button {
+    background-color: gold;
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: orange;
+}
+
+#resultado {
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+
+button:hover {
+    background-color: orange;
+}
+
+#resultado {
+    margin-top: 20px;
+    font-size: 18px;
+}
